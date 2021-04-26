@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Killercat103
-- 🌱 I’m currently learning HTML, CSS, JavaScript and C++.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and C++.
 - 📫 Reach me on my Discord server (https://discord.com/invite/3SAZeUyw3E). 
 
 <!---
